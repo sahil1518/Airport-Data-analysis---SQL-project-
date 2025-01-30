@@ -9,9 +9,7 @@ The dataset contains information about flights between different airports, inclu
 3. Date & Population Data: Flight date and population of the origin and destination cities.
    Columns in the Dataset
 
-
-
-   ![image](https://github.com/user-attachments/assets/c1c29752-9a33-4b01-8b9a-7c99278a9540)
+![image](https://github.com/user-attachments/assets/c1c29752-9a33-4b01-8b9a-7c99278a9540)
 
 
    
